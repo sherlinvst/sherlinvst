@@ -2,7 +2,8 @@
 
 <h2>Programming Projects:</h2>
 
-- <b>Python</b>
+- <b>Javascript, HTML, CSSS</b>
+  - [Rock Paper Scissors Game](https://github.com/sherlinvst/website-practice)
 
 <h2> Connect with me:</h2>
 
