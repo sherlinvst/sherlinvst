@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sherlin! <br/><a href="https://github.com/sherlin-vincent-ticsay">Student Programmer</a></h1>
+<h1>Hi, I'm Sherlin! <br/><a href="https://github.com/sherlin-vincent-ticsay"></a></h1>
 
 <h2>Programming Projects:</h2>
 
